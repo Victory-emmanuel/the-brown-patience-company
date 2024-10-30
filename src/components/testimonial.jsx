@@ -98,7 +98,7 @@ const Testimonial = () => {
                     key={items.id}
                     className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                   >
-                    <div className="flex gap-4">
+                    <div className="flex gap-4 py-6">
                       <img
                         className="w-12 h-12 rounded-full"
                         src={items.img}
@@ -132,10 +132,10 @@ const Testimonial = () => {
                   id="Oluwakemi-O."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/t4wVD9bk/41044-1.jpg"
+                      src="https://i.postimg.cc/Bbb6JvrW/d78669f5-0bc6-49a5-bd50-be5a69808ccb.jpg"
                       alt=""
                       width=""
                       height=""
@@ -145,19 +145,16 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Oluwakemi O.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-4">
-                      "“I read ‘Love, the Way to Victory’ by Kenneth E. Hagin
-                      and it taught me what love really means. I learnt that
-                      Love is a person and I can become that person. It changed
-                      my perspective on how I see people. It taught me that
-                      there’s a better way to dispense love to people—including
-                      people who have hurt me.”",
+                      I read ‘Love, the Way to Victory’ by Kenneth E. Hagin and
+                      it taught me what love really means. I learnt that Love is
+                      a person and I can become that person. It changed my
+                      perspective on how I see people. It taught me that there’s
+                      a better way to dispense love to people—including people
+                      who have hurt me.
                     </p>
                     <HashLink to="/testimonialPg#Oluwakemi-O.">
                       <span className="text-accent">See More...</span>
@@ -169,10 +166,10 @@ const Testimonial = () => {
                   id="Brown-P."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/tgMtZ79N/2151100151-1.jpg"
+                      src="https://i.postimg.cc/NMgFPDbj/72c18eed-7a5a-4a6f-91df-8f066d8cb42a.jpg"
                       alt=""
                       width=""
                       height=""
@@ -182,9 +179,6 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Brown P.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
@@ -206,7 +200,7 @@ const Testimonial = () => {
                   id="Omodolapo-L."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
                       src="https://i.postimg.cc/t4wVD9bk/41044-1.jpg"
@@ -219,20 +213,17 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Omodolapo L.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“In reading ‘Atomic Habits’ by James Clear, I was able to
+                      In reading ‘Atomic Habits’ by James Clear, I was able to
                       learn about bad behaviors and principle steps to adopting
                       good ones. I got to understand why small habits can make a
                       big difference. I got to learn the importance of habit
                       tracking and how to build healthy habits. I also learnt
                       the importance of accountability. This particular one was
-                      an amazing reminder for me.”",
+                      an amazing reminder for me.
                     </p>
                     <HashLink to="/testimonialPg#Omodolapo-L.">
                       <span className="text-accent">See More...</span>
@@ -244,10 +235,10 @@ const Testimonial = () => {
                   id="Clementina-O."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/Pxvbmhxs/2150797626-1.jpg"
+                      src="https://i.postimg.cc/Bv5tgkTz/b67a8038-3dc2-4358-9414-eb4bd1c9663b.jpg"
                       alt=""
                       width=""
                       height=""
@@ -257,14 +248,11 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Clementina O.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“If you have an assignment that has to do with destiny,
+                      If you have an assignment that has to do with destiny,
                       just ensure the people who work closest with you are those
                       who know, understand, and are familiar with your Source,
                       the well you drink from and the Originator of the idea.
@@ -276,7 +264,7 @@ const Testimonial = () => {
                       those bricks one after the other. Without these walls
                       being brought down, I definitely cannot enjoy the many
                       blessings around me. I have seen that closing my heart to
-                      pain means closing my heart to healing and beauty.”"
+                      pain means closing my heart to healing and beauty.
                     </p>
                     <HashLink to="/testimonialPg#Clementina-O.">
                       <span className="text-accent">See More...</span>
@@ -288,10 +276,10 @@ const Testimonial = () => {
                   id="Ireoluwa-O."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/c1V9kkyB/2151100221-1.jpg"
+                      src="https://i.postimg.cc/6pv87yyt/cba1c462-415d-43b1-a59e-12bbc7dd7cba.jpg"
                       alt=""
                       width=""
                       height=""
@@ -301,14 +289,11 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Ireoluwa O.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“One of the books I really love is Francine Rivers’ ‘The
+                      One of the books I really love is Francine Rivers’ ‘The
                       Scarlet Thread’. It’s a combination of two stories that
                       are somehow linked but I only read one. I learned how to
                       let go. Ah! I’m still learning it, but that’s where l
@@ -329,10 +314,10 @@ const Testimonial = () => {
                   id="Tobiloba-O."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/h47Mm8zz/2150709932-1.jpg"
+                      src="https://i.postimg.cc/k5PBWqb8/6df6ffd2-5183-49c6-b558-1d240db9624e.jpg"
                       alt=""
                       width=""
                       height=""
@@ -342,24 +327,20 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Tobiloba O.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“I once hit rock bottom emotionally. It seemed like
-                      nothing was working and even the days rolled by
-                      hopelessly. On one of the hopeless days, I was led by
-                      God’s Spirit to read a particular chapter of a book l had
-                      inherited from my sister. That particular chapter
-                      addressed my situation at the time and literally spoke to
-                      my soul, reassuring me that there are lots of feats to
-                      attain whether situations around seem like it or not. In
-                      tears, I kept reading till my whole being accepted the
-                      message of the book. That book was ‘Break Out’ by Joel
-                      Osteen.”"
+                      I once hit rock bottom emotionally. It seemed like nothing
+                      was working and even the days rolled by hopelessly. On one
+                      of the hopeless days, I was led by God’s Spirit to read a
+                      particular chapter of a book l had inherited from my
+                      sister. That particular chapter addressed my situation at
+                      the time and literally spoke to my soul, reassuring me
+                      that there are lots of feats to attain whether situations
+                      around seem like it or not. In tears, I kept reading till
+                      my whole being accepted the message of the book. That book
+                      was ‘Break Out’ by Joel Osteen.
                     </p>
                     <HashLink to="/testimonialPg#Tobiloba-O.">
                       <span className="text-accent">See More...</span>
@@ -371,10 +352,10 @@ const Testimonial = () => {
                   id="Brown-P.2"
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/tgMtZ79N/2151100151-1.jpg"
+                      src="https://i.postimg.cc/NMgFPDbj/72c18eed-7a5a-4a6f-91df-8f066d8cb42a.jpg"
                       alt=""
                       width=""
                       height=""
@@ -384,14 +365,11 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Brown P.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“I read Francine River’s ‘Atonement Child’ for the second
+                      I read Francine River’s ‘Atonement Child’ for the second
                       time and the emotions l’d been feeling just around that
                       time came into perspective. Yeah, I was confused quite
                       alright; confused because I was letting my emotions take
@@ -402,7 +380,7 @@ const Testimonial = () => {
                       it. Reading that book helped me make sense of the chaos.
                       It also encouraged me to turn back to and stand firm in
                       faith. As Joe said in one chapter, God knows what’s best
-                      for me. It’s alright to trust, and follow.”
+                      for me. It’s alright to trust, and follow.
                     </p>
                     <HashLink to="/testimonialPg#Brown-P.2">
                       <span className="text-accent">See More...</span>
@@ -414,10 +392,10 @@ const Testimonial = () => {
                   id="David-I."
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/h47Mm8zz/2150709932-1.jpg"
+                      src="https://i.postimg.cc/hjpvFm3b/WhatsApp_Image_2024-10-29_at_14.12.01.jpg"
                       alt=""
                       width=""
                       height=""
@@ -427,17 +405,14 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         David I.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“Atomic Habits’ by James Clears would be top of the list
-                      of the books that have heavily impacted me. Made me become
+                      Atomic Habits’ by James Clears would be top of the list of
+                      the books that have heavily impacted me. Made me become
                       more intentional about how I spend my time and the new
-                      habits I’m tryna build.”"
+                      habits I’m tryna build.
                     </p>
                     <HashLink to="/testimonialPg#David-I.">
                       <span className="text-accent">See More...</span>
@@ -449,7 +424,7 @@ const Testimonial = () => {
                   id="Omodolapo-L.2"
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6">
                     <img
                       className="w-12 h-12 rounded-full"
                       src="https://i.postimg.cc/t4wVD9bk/41044-1.jpg"
@@ -462,20 +437,16 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Omodolapo L.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“Reading John C. Maxwell’s ‘The Power of Your
-                      Leadership’, I got to understand how to combine personal
-                      passion and leadership without one affecting the other. I
-                      got to understand the 5 levels of leadership which are
-                      Position, Permission, Production, People Development, and
-                      Pinnacle. I learnt how they can be applied in our daily
-                      lives.”"
+                      Reading John C. Maxwell’s ‘The Power of Your Leadership’,
+                      I got to understand how to combine personal passion and
+                      leadership without one affecting the other. I got to
+                      understand the 5 levels of leadership which are Position,
+                      Permission, Production, People Development, and Pinnacle.
+                      I learnt how they can be applied in our daily lives.
                     </p>
                     <HashLink to="/testimonialPg#Omodolapo-L.2">
                       <span className="text-accent">See More...</span>
@@ -487,10 +458,10 @@ const Testimonial = () => {
                   id="Ireoluwa-O.2"
                   className="aspect-auto ss:p-8 xx:p-2 border h-full  border-extraCrl bg-transparent dark:bg-secondary dark:border-gray-700 shadow-2xl"
                 >
-                  <div className="flex gap-4">
+                  <div className="flex gap-4 py-6 ">
                     <img
                       className="w-12 h-12 rounded-full"
-                      src="https://i.postimg.cc/c1V9kkyB/2151100221-1.jpg"
+                      src="https://i.postimg.cc/6pv87yyt/cba1c462-415d-43b1-a59e-12bbc7dd7cba.jpg"
                       alt=""
                       width=""
                       height=""
@@ -500,14 +471,11 @@ const Testimonial = () => {
                       <h6 className="text-lg font-medium text-gray-700 dark:text-white">
                         Ireoluwa O.
                       </h6>
-                      <p className="text-sm text-gray-500 dark:text-gray-400">
-                        ...
-                      </p>
                     </div>
                   </div>
                   <div className="mt-8 bg-white  dark:bg-secondary ss:p-8 xx:p-4 rounded-lg content  ">
                     <p className=" ss:line-clamp-4 xx:line-clamp-5">
-                      "“Your patience and consistency in making sure my book was
+                      Your patience and consistency in making sure my book was
                       properly and thoroughly put together was very encouraging
                       and highly inspiring. Thank you.”“Several books have
                       impacted me. When I read a book—any book—I relate with at
@@ -515,14 +483,7 @@ const Testimonial = () => {
                       myself in their shoes and personalize their experiences.
                       It’s what makes reading very real to me I think a lot of
                       my favorite books are written by Francine Rivers. One of
-                      her books is titled ‘The Masterpiece’. I learned quite a
-                      lot from it. Grace, one of the main characters, had a
-                      tough life. I could relate to that. But it didn’t shake
-                      her faith in God, not at all. I also learned assertiveness
-                      from her. Before reading the book, I would see something I
-                      didn’t like and I still wouldn’t say anything. But I
-                      learned to stand against things that don’t align to my
-                      values.”"
+                      her books is titled ‘The Masterpiece’.
                     </p>
                     <HashLink to="/testimonialPg#Ireoluwa-O.2">
                       <span className="text-accent">See More...</span>

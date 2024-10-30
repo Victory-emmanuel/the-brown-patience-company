@@ -21,13 +21,12 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Sarah-Sesi-Godonu
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "I never knew I would need to sharpen my writing skills. It
-                  had never crossed my mind to take a writing class because I
+                  I never knew I would need to sharpen my writing skills. It had
+                  never crossed my mind to take a writing class because I
                   thought it was for only aspiring writers. That fateful week,
                   Coach Brown reached out to me, because she felt led to send
                   the information to me when the scholarship application was
@@ -95,7 +94,7 @@ const Section2 = () => {
                   all to see that we all attained the goals for which we signed
                   up for this class. And not to discard this, thank you for
                   being patient with us all.“Come and take all my flowers in the
-                  garden” like you normally say.",
+                  garden” like you normally say.
                 </p>
               </div>
             </div>
@@ -108,12 +107,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Bukola Adewuyi.
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The course began Feb 12, 2024. My expectation was that the
+                  The course began Feb 12, 2024. My expectation was that the
                   class will take me a step further in fulfilling God's plan for
                   my life by making me a great story teller. After the course:
                   19th April, 2024. I make bold to see that my expectations have
@@ -126,24 +124,23 @@ const Section2 = () => {
                   putting out the things I was writing. I just didn't see the
                   need to share them with anyone. But now I know better. I've
                   learnt that the world needs to hear the message I have to
-                  share. I've learnt to share my message, with courage.",
+                  share. I've learnt to share my message, with courage.
                 </p>
               </div>
             </div>
             <div className="border-t-accent border-t-8 border-dotted xs:w-[10%] xx:w-[5%] ss:my-12 xx:my-6 mx-auto h-0"></div>
-            {/*    Olamilekan Adenus*/}
+            {/*    Olamilekan Adenusi*/}
             <div id=" Olamilekan-Adenus" className={`relative p-4`}>
               <div className="flex gap-4">
                 <div className="mb-2">
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
-                    Olamilekan Adenus
+                    Olamilekan Adenusi
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The Course began February 12, 2024. And I was expecting to
+                  The Course began February 12, 2024. And I was expecting to
                   learn how to effectively pen down all that my mind saw,
                   pondered, and reflected upon. I had no idea what you would be
                   teaching us when I started this course—except that I should
@@ -164,7 +161,7 @@ const Section2 = () => {
                   practice, and with time, I'll hone this art. I'll be better at
                   it. Like you, I'd also inspire others. I'd be very good at
                   this thing.So, yes! This course has served me well. Even
-                  beyond my expectations. And I have you to thank for that.",
+                  beyond my expectations. And I have you to thank for that.
                 </p>
               </div>
             </div>
@@ -176,12 +173,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Mercy Adegbenro.
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The course began February 12, 2024. My expectation was to be
+                  The course began February 12, 2024. My expectation was to be
                   able to express myself better through writing and also that it
                   reflects in my oral communication. After the course: March 9,
                   2024. I have surpassed my expectations.
@@ -198,7 +194,7 @@ const Section2 = () => {
                   long time. A big shout out to Coach Patience and my one and
                   only partner, Sarah. Thanks for the support so far, and I do
                   hope to write contents that will make you a proud Coach in the
-                  nearest future. Gracias.",
+                  nearest future. Gracias.
                 </p>
               </div>
             </div>
@@ -210,12 +206,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Timilehin Oyinloye.
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "April 30, 2023. At first, when I enrolled into this class, I
+                  April 30, 2023. At first, when I enrolled into this class, I
                   didn’t really have any purpose of joining then. I knew I was
                   lacking in one aspect or the other in terms of punctuations
                   and the rest. Thank God, now I can say that I'm better. Before
@@ -235,7 +230,7 @@ const Section2 = () => {
                   use of commas, letting me know the places where I was using
                   them unnecessarily. Then you taught me the use of exclamation
                   marks. So I can say that I'm better at the use of exclamation
-                  marks and also the use of commas.",
+                  marks and also the use of commas.
                 </p>
               </div>
             </div>
@@ -247,18 +242,16 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Surprise Zihlavski
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "By the end of the course, I had hoped to gather enough
-                  courage to pursue my dream of becoming an author. I am happy
-                  to say that I have achieved more than that. Now, I not only
-                  have the courage but also the knowledge to begin my journey. I
-                  used to believe I lacked the creativity to write a fictional
-                  book, but now, with all I have learned, the only limit is
-                  myself. ",
+                  By the end of the course, I had hoped to gather enough courage
+                  to pursue my dream of becoming an author. I am happy to say
+                  that I have achieved more than that. Now, I not only have the
+                  courage but also the knowledge to begin my journey. I used to
+                  believe I lacked the creativity to write a fictional book, but
+                  now, with all I have learned, the only limit is myself.
                 </p>
               </div>
             </div>
@@ -270,12 +263,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Kehinde Adedoyin.
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The course began February 12, 2024. My expectations was to be
+                  The course began February 12, 2024. My expectations was to be
                   able to express my thoughts through writing freely,
                   appropriately and effectively. After the course: March 9,
                   2024. Wow! This experience has exceeded all my
@@ -292,7 +284,7 @@ const Section2 = () => {
                   addressing. These past few weeks have been incredible, and
                   I've noticed a significant improvement in my writing
                   abilities.Thank you, dear coach, for instilling in us such
-                  valuable wisdom and insight. God bless you!",
+                  valuable wisdom and insight. God bless you!
                 </p>
               </div>
             </div>
@@ -304,17 +296,16 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Precious Emakwu
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "At the beginning of the class, I remember how I mentioned
-                  that I expected to get better at writing. As of today, I must
-                  say that I'm getting better because the class taught me the
-                  power of storytelling. Storytelling is that powerful to get
-                  your readers to feel the emotions you felt while writing or
-                  the emotions you want them to feel(that's if you want them to
+                  At the beginning of the class, I remember how I mentioned that
+                  I expected to get better at writing. As of today, I must say
+                  that I'm getting better because the class taught me the power
+                  of storytelling. Storytelling is that powerful to get your
+                  readers to feel the emotions you felt while writing or the
+                  emotions you want them to feel(that's if you want them to
                   'feel' those emotions). I understood vividly the power of
                   telling a story to capture the attention of your audience.
                 </p>
@@ -325,7 +316,7 @@ const Section2 = () => {
                   around me. Lastly, as compelling as the class and stories
                   being shared during the class have been, I've started paying
                   rapt attention to punctuation. As every element of writing
-                  does matter, punctuations matter too.",
+                  does matter, punctuations matter too.
                 </p>
               </div>
             </div>
@@ -337,12 +328,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Chimamanda Okoye
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "My expectations for the class that started on October 2nd,
+                  My expectations for the class that started on October 2nd,
                   2023, was to be a good writer, to know my audience, and to
                   know more about how to use punctuation marks when writing.
                   After the class which ended on October 28, now I can say this
@@ -353,7 +343,7 @@ const Section2 = () => {
                   they feel. I was able to learn how to use proper punctuation
                   marks and how to use paragraph accordingly. I learnt a lot of
                   things from the class. Thank you Brown Patience for hosting
-                  this class.",
+                  this class.
                 </p>
               </div>
             </div>
@@ -365,12 +355,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Sharon Akintade
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "On Saturday, September 30, 2023, we were asked our
+                  On Saturday, September 30, 2023, we were asked our
                   expectations of the course and what we hoped to achieve, and
                   here was my response- The reason I signed up for “The Art of
                   Writing Compelling Stories” is to be able to deliver the
@@ -382,7 +371,7 @@ const Section2 = () => {
                   understanding of how to tailor a particular message to
                   different audiences without losing the essence of the message.
                   Definitely got more value than expected. Thank you, Coach
-                  Patience.",
+                  Patience.
                 </p>
               </div>
             </div>
@@ -394,12 +383,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Onyinyechi CeeCee
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The Course began October 2, 2023. My expectations was to be
+                  The Course began October 2, 2023. My expectations was to be
                   able to write exceptionally about whatever I set my mind to.
                   After the course: October 28, 2023. Ah! I have met my
                   expectations. The rigorous training and consistent writing,
@@ -412,7 +400,7 @@ const Section2 = () => {
                   of myself. You have showed me how to take this game to the
                   next level. And that, I intend to do. I can never appreciate
                   you enough, coach. Thank you so much and God bless you
-                  abundantly.",
+                  abundantly.
                 </p>
               </div>
             </div>
@@ -424,7 +412,6 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Emmanuel Orimogunje
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
@@ -469,12 +456,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Lily-Josiah
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "The course began October 2, 2023 My expectations were to:
+                  The course began October 2, 2023 My expectations were to:
                   <ul className="my-2 list-decimal ml-6">
                     <li className="my-2">
                       Become more creative and expressive in my writing. The
@@ -491,7 +477,7 @@ const Section2 = () => {
                   need to make in order to communicate effectively through my
                   writing. The course has been revelatory, in-depth,
                   comprehensive and thorough. It speaks diligence and encourages
-                  me to be a diligent writer.",
+                  me to be a diligent writer.
                 </p>
               </div>
             </div>
@@ -503,12 +489,11 @@ const Section2 = () => {
                   <h6 className="text-secondary text-xl font-semibold dark:text-primary">
                     Oreoluwa Dawodu
                   </h6>
-                  <p className="text-secondary dark:text-primary">...</p>
                 </div>
               </div>
               <div className="text-secondary dark:text-primary">
                 <p className="mb-4">
-                  "My expectation from this class was to be able to communicate
+                  My expectation from this class was to be able to communicate
                   better. So I'm a terrible communicator, the class made me know
                   how to communicate better. This class made me pay attention to
                   little details around me and draw stories from them. <br />
@@ -520,7 +505,7 @@ const Section2 = () => {
                   I learnt different ways to write the same story to pass the
                   same information. I learnt that my write up must change a
                   person's thoughts. I must speak to people’s hearts; change
-                  their mentality about a topic.",
+                  their mentality about a topic.
                 </p>
               </div>
             </div>

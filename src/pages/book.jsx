@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Link } from "react-router-dom";
 
 import Faq from "../components/faq";
@@ -26,100 +27,7 @@ const Book = () => {
             </Link>
           </div>
         </section>
-        {/* My Books */}
-        {/* <div className="  mx-auto px-6 md:px-12">
-         
 
-          <div className="my-16 items-center grid ss:grid-cols-2 xx:grid-cols-1">
-            <h4 className=" text-2xl ss:block xx:hidden font-bold text-secondary dark:text-white md:text-2xl">
-              MY BOOKS
-            </h4>
-            <div className="ss:justify-self-end xx:justify-self-center ">
-              <Link to={"/book"}>
-                <button className="relative ss:ml-6 xx:ml-0 ss:px-6 py-4 xx:px-16   text-secondary text-base font-bold nded-full overflow-hidden bg-extraClr rounded-lg transition-all duration-800 ease-in-out shadow-md hover:scale-105 hover:text-white hover:shadow-lg active:scale-90 before:absolute before:top-0 before:-left-full before:w-full before:h-full before:bg-gradient-to-r before:from-accent before:to-secondary before:transition-all before:duration-1000 before:ease-in-out before:z-[-1] before:rounded-lg hover:before:left-0">
-                  ALL BOOKS
-                </button>
-              </Link>
-            </div>
-          </div>
-          <div className="grid gap-6 ss:px-4 xx:px-0 sm:px-0 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3">
-            <div className="group relative rounded-3xl xx:w-full ss:space-y-6 overflow-hidden">
-              <img
-                className="mx-auto h-full w-full grayscale object-cover object-top ransition duration-500 group-hover:scale-105 group-hover:grayscale-0"
-                src="https://i.postimg.cc/X7HmPYNM/IMG-20220917-WA0018.webp"
-                alt="woman"
-                loading="lazy"
-                width="640"
-                height="805"
-              />
-              <div className="absolute bottom-0 inset-x-0 h-max mt-auto px-8 py-6 bg-accent dark:bg-white translate-y-24 transition duration-300 ease-in-out group-hover:translate-y-0">
-                <div>
-                  <h4 className="text-xl  xx:mb-2  ss:mb-6  font-semibold dark:text-gray-700 text-white">
-                    Brown Patience
-                  </h4>
-                </div>
-                <p className=" text-primary dark:text-gray-600 text-base xs:text-sm xx:text-xs">
-                  This is a book about porn addiction. About the darkness that
-                  persists even after you've stopped viewing it.......
-                  <HashLink smooth to="/book#so-he-taught-me-no">
-                    <span className="text-semibold text-primary">See More</span>
-                  </HashLink>
-                </p>
-              </div>
-            </div>
-
-            <div className="group relative rounded-3xl  space-y-6 overflow-hidden">
-              <img
-                className="mx-auto h-full w-full grayscale object-cover object-top ransition duration-500 group-hover:scale-105 group-hover:grayscale-0"
-                src="https://i.postimg.cc/hGS5HP4L/20240207-064730.jpg"
-                alt="Book cover"
-                loading="lazy"
-                width="640"
-                height="805"
-              />
-              <div className="absolute bottom-0 inset-x-0 h-max mt-auto px-8 py-6 bg-accent dark:bg-white translate-y-24 transition duration-300 ease-in-out group-hover:translate-y-0">
-                <div>
-                  <h4 className="text-xl  xx:mb-2  ss:mb-4  font-semibold dark:text-gray-700 text-white">
-                    Brown Patience
-                  </h4>
-                </div>
-                <p className=" text-primary dark:text-gray-600 text-base xs:text-sm xx:text-xs">
-                  Born to a man without warmth, Chimamanda is married off early
-                  to a man she dreads just as much as her father. But her walls
-                  are in place........
-                  <HashLink smooth to="/book#chimamanda">
-                    <span className="text-semibold text-primary">See More</span>
-                  </HashLink>
-                </p>
-              </div>
-            </div>
-
-            <div className="group relative rounded-3xl  space-y-6 overflow-hidden">
-              <img
-                className="mx-auto h-full w-full grayscale object-cover object-top transition duration-500 group-hover:scale-105 group-hover:grayscale-0"
-                src="https://i.postimg.cc/HxnPkZyj/20240207-064011.jpg"
-                alt="woman"
-                loading="lazy"
-                width="640"
-                height="805"
-              />
-              <div className="absolute bottom-0 inset-x-0 h-max mt-auto px-8 py-6 bg-accent dark:bg-white translate-y-24 transition duration-300 ease-in-out group-hover:translate-y-0">
-                <div>
-                  <h4 className="text-xl  xx:mb-2  ss:mb-4  font-semibold dark:text-gray-700 text-white">
-                    Brown Patience
-                  </h4>
-                </div>
-                <p className=" text-primary  dark:text-gray-600 text-base xs:text-sm xx:text-xs">
-                  Fantasy is about the sexual mental struggles we face. Those
-                  steamy thoughts that feel like you're engaging in a porn .....
-                  <HashLink smooth to="/book#fantasy">
-                    <span className="text-semibold text-primary">See More</span>
-                  </HashLink>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> */}
         {/* Book body */}
         <section id="book-body" className="">
           <div
@@ -363,7 +271,7 @@ const Book = () => {
             </div>
           </div>
           <div
-            id="so-he-taught-me-no"
+            id="a-stonghold-broken"
             className=" lg:py-20 grid sm:grid-cols-2 gap-4 lg:px-12 sm:px-12 bg-white dark:bg-secondary "
           >
             <div className="bg sm:grid xx:hidden place-content-start">
@@ -380,9 +288,12 @@ const Book = () => {
                 <h2 className="mb-12 font-sans text-3xl lg:text-left font-bold tracking-tight text-accent sm:text-4xl sm:leading-none md:text-center">
                   <strong>Adeni - A StrongHold Broken </strong>
                 </h2>
-                <div className="bg sm:hidden xx:grid place-content-center">
+                <div className=" sm:hidden xx:grid place-content-center">
                   <div
-                    style={{ boxShadow: "2px 2px 28px -1px rgba(0,0,0,0.50)" }}
+                    style={{
+                      boxShadow: "2px 2px 28px -1px rgba(0,0,0,0.50)",
+                      background: `url("https://i.postimg.cc/5NdjwyCH/IMG-20240630-WA0018.jpg") no-repeat center center/cover`,
+                    }}
                     className="img4   ss:w-[32rem] ss:h-[40rem] xs:w-[24rem] xs:h-[32rem] xx:w-[20rem] xx:h-[28rem] my-8  sm:w-0 rounded-lg"
                   ></div>
                 </div>

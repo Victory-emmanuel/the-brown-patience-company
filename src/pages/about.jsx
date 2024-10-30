@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Email from "../components/email";
 
 const About = () => {
@@ -18,19 +19,19 @@ const About = () => {
         </section>
         {/* ABOUT CONTENT */}
         <section className=" dark:bg-secondary py-16 xx:px-6 ss:px-12">
-          <div className="bg-primary dark:bg-secondary gap-8 items-center ss:py-24 xx:py-12 mx-auto max-w-screen-xl xl:gap-16 grid md:grid-cols-2 sm:py-16 lg:px-6">
-            <div className="mt-4 md:mt-0 text-left">
+          <div className="bg-primary dark:bg-secondary gap-8 items-center ss:py-24 xx:py-12 mx-auto max-w-screen-xl xl:gap-16 grid md:grid-cols-2 sm:py-16 ">
+            <div className="mt-4 md:mt-0 flex flex-col">
               <h4 className="lg:mb-6 font-light text-secondary dark:text-accent">
                 Where It Began For
               </h4>
               <h2 className="mb-12 text-4xl tracking-tight font-extrabold text-accent dark:text-white">
                 Brown Patience
               </h2>
-              <p className="mb-6 font-light text-secondary md:text-lg dark:text-primary">
+              <p className="mb-6  text-secondary md:text-lg dark:text-primary">
                 I remember having this 40 or 60-leaves book back in secondary
-                school. That was 2014. I was in SS2 "if you're unfamiliar with
+                school. That was 2014. I was in SS2 ( if you're unfamiliar with
                 Nigeria's education system, SS2 is one class away from
-                highschool graduation". I wrote stories in that notebook. A few
+                highschool graduation ). I wrote stories in that notebook. A few
                 friends read them and I was so proud of those stories. Then the
                 book got missing. It was painful. So painful that I haven't
                 forgotten the feeling. Still in that 2014, I won a national
@@ -117,14 +118,11 @@ const About = () => {
               encouraged me to write, where I found out that words were easy to
               piece together, that my imagination could run with dizzying speed,
               that I could forge stories only from wanting to. But even before
-              those, it started with God's
-              <b className="font-bold  text-secondary dark:text-primary">
-                gift
-              </b>
-              . He gave me this talent; He's been leading me on how to put it to
-              fruit-bearing use. Over my life, He'll reap much harvest. And I'll
-              be able to say, like Jesus, “I have brought you glory on earth by
-              finishing the work you gave me to do” (John 17:4, NIV).
+              those, it started with God's gift . He gave me this talent; He's
+              been leading me on how to put it to fruit-bearing use. Over my
+              life, He'll reap much harvest. And I'll be able to say, like
+              Jesus, “I have brought you glory on earth by finishing the work
+              you gave me to do” (John 17:4, NIV).
             </p>
           </div>
 
